@@ -1,0 +1,25 @@
+body{
+    background-color: darkseagreen;
+}
+
+.content{
+    text-align: center;
+    line-height: 2;
+}
+
+.content input{
+    width: 200px;
+    height: 30px;
+}
+
+.result{
+    text-align: center;
+}
+
+#submit{
+    background-color: rgb(18, 212, 0);
+}
+
+#hint{
+    background-color: rgb(252, 249, 71);
+}
